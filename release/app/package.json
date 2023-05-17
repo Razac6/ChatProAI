@@ -1,7 +1,7 @@
 {
   "name": "chat_pro_ai",
   "version": "0.0.1",
-  "description": "AI app",
+  "description": "Chat base on gtp-3.5",
   "license": "MIT",
   "author": {
     "name": "ChatProAI",
